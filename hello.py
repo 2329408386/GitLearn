@@ -1,0 +1,3 @@
+# hello.py
+
+class callable
